@@ -1,2 +1,2 @@
 # TSF-Tasks
-It contims the tasks required for TSF GRIP .
+It contains the tasks required for TSF GRIP .
